@@ -9,12 +9,12 @@ ext {
     libraryName = 'repsly-utils'
     artifact = 'repsly-utils'
 
-    libraryDescription = 'A experimental library'
+    libraryDescription = 'An experimental library'
 
     siteUrl = 'https://github.com/Repsly/AndroidUtils'
     gitUrl = 'https://github.com/Repsly/AndroidUtils.git'
 
-    libraryVersion = '0.0.1'
+    libraryVersion = '0.0.4'
 
     developerId = 'ahuskano'
     developerName = 'Alen Huskanovic'
